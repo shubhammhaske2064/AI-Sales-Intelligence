@@ -1,0 +1,25 @@
+Table,Column,Business Meaning,Data Type
+FactSales,Order_ID,Unique transaction identifier,Text
+FactSales,Order_Date,Date of transaction,Date
+FactSales,Customer_ID,Customer foreign key,Text
+FactSales,Product_ID,Product foreign key,Text
+FactSales,Region_ID,Region foreign key,Text
+FactSales,Channel,Sales channel,Text
+FactSales,Quantity,Units purchased,Integer
+FactSales,Unit_Price,List price per unit,Decimal
+FactSales,Discount_Percent,Discount applied to order,Decimal
+FactSales,Sales_Amount,Net sales after discount,Decimal
+FactSales,Cost_Amount,Estimated product cost,Decimal
+FactSales,Profit,Sales minus cost,Decimal
+DimCustomer,Customer_ID,Unique customer identifier,Text
+DimCustomer,Customer_Name,Customer full name,Text
+DimCustomer,Customer_Segment,Commercial segment,Text
+DimProduct,Product_ID,Unique product identifier,Text
+DimProduct,Category,Product category,Text
+DimProduct,Sub_Category,Product sub-category,Text
+DimDate,Date,Calendar date,Date
+DimRegion,Region_ID,Unique region identifier,Text
+FactReturns,Return_ID,Unique return identifier,Text
+FactReturns,Order_ID,Returned order identifier,Text
+FactTargets,Target_ID,Unique target identifier,Text
+FactTargets,Date,Target month,Date

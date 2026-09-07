@@ -1,0 +1,8 @@
+Table,Rows,Role
+sales,74920,Sales transactions
+return,4500,Return transactions
+target,1500,Regional targets
+customer,6000,Customer attributes
+product,180,Product attributes
+date,912,Calendar attributes
+region,25,Regional attributes

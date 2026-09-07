@@ -1,0 +1,4 @@
+Return_Risk,Products,Units_Sold,Returned_Units,Refund_Amount,Revenue,Profit,Return_Rate_Percent
+High Return Risk,4,3642,157,1638138.3,34190399.94,7507319.16,4.31
+Low Return Risk,93,92330,1999,17583011.22,731200205.77,171949295.87,2.17
+Moderate Return Risk,83,81205,2530,20328992.1,596234431.03,154128139.49,3.12

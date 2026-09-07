@@ -1,0 +1,6 @@
+Category,Products,Orders,Customers,Units_Sold,Revenue,Cost,Profit,Profit_Margin_Percent,Average_Order_Value,Revenue_Rank,Profit_Rank,Portfolio_Segment,Revenue_Contribution_Percent,Profit_Contribution_Percent
+Electronics,36,14918,5483,35365,328350092.98,246667411.06,81682681.92,24.88,22010.33,1,1,High Revenue - High Margin,24.11,24.49
+Beauty,36,15031,5517,35486,269804529.27,201405128.74,68399400.53,25.35,17949.87,2,2,Low Revenue - High Margin,19.81,20.5
+Sports,36,15063,5488,35498,265874206.9,202162947.24,63711259.66,23.96,17650.81,3,4,Low Revenue - Low Margin,19.53,19.1
+Home,36,15002,5516,35556,250978890.42,194940321.04,56038569.38,22.33,16729.7,4,5,Low Revenue - Low Margin,18.43,16.8
+Fashion,36,14906,5486,35272,246617317.17,182864474.14,63752843.03,25.85,16544.84,5,3,Low Revenue - High Margin,18.11,19.11

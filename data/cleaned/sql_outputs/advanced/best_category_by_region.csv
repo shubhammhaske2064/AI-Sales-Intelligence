@@ -1,0 +1,6 @@
+Region,Region_ID,Category,Orders,Customers,Units_Sold,Revenue,Cost,Profit,Profit_Margin_Percent,Average_Order_Value,Category_Revenue_Rank_In_Region,Region_Revenue_Rank_In_Category
+Central,R025,Electronics,594,217,1354,12801955.11,9639019.76,3162935.35,24.71,21552.11,1,17
+East,R013,Electronics,656,229,1597,14611951.78,11001399.81,3610551.97,24.71,22274.32,1,3
+North,R010,Electronics,669,246,1543,14108227.87,10611434.13,3496793.74,24.79,21088.53,1,6
+South,R019,Electronics,629,229,1502,14647436.08,10957912.17,3689523.91,25.19,23286.86,1,2
+West,R001,Electronics,636,223,1583,14814420.81,11076478.53,3737942.28,25.23,23293.11,1,1

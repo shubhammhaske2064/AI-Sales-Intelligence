@@ -1,0 +1,4 @@
+Channel,Orders,Customers,Units_Sold,Revenue,Cost,Profit,Average_Discount,Profit_Margin_Percent,Average_Order_Value,Average_Selling_Price,Revenue_Contribution_Percent,Profit_Contribution_Percent
+Online,41322,5999,97878,752434404.91,568095890.45,184338514.46,9.17,24.5,18209.05,7687.47,55.26,55.26
+Store,18604,5749,44364,340426046.93,256470913.5,83955133.43,9.16,24.66,18298.54,7673.48,25.0,25.17
+Marketplace,14994,5503,34935,268764584.9,203473478.27,65291106.63,9.14,24.29,17924.81,7693.28,19.74,19.57

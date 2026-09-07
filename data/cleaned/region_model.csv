@@ -1,0 +1,26 @@
+Region_ID,Region,State,City,Tier
+R001,West,Maharashtra,Mumbai,Tier 1
+R002,West,Maharashtra,Pune,Tier 1
+R003,West,Gujarat,Ahmedabad,Tier 1
+R004,West,Gujarat,Surat,Tier 2
+R005,North,Rajasthan,Jaipur,Tier 2
+R006,North,Rajasthan,Udaipur,Tier 2
+R007,North,Delhi,New Delhi,Tier 1
+R008,North,Punjab,Ludhiana,Tier 2
+R009,North,Punjab,Amritsar,Tier 2
+R010,North,Uttar Pradesh,Lucknow,Tier 2
+R011,North,Uttar Pradesh,Noida,Tier 2
+R012,East,West Bengal,Kolkata,Tier 1
+R013,East,Odisha,Bhubaneswar,Tier 2
+R014,East,Bihar,Patna,Tier 2
+R015,South,Tamil Nadu,Chennai,Tier 1
+R016,South,Tamil Nadu,Coimbatore,Tier 2
+R017,South,Karnataka,Bengaluru,Tier 1
+R018,South,Karnataka,Mysuru,Tier 2
+R019,South,Telangana,Hyderabad,Tier 1
+R020,South,Kerala,Kochi,Tier 2
+R021,South,Kerala,Thiruvananthapuram,Tier 2
+R022,South,Andhra Pradesh,Vijayawada,Tier 2
+R023,South,Andhra Pradesh,Visakhapatnam,Tier 2
+R024,Central,Madhya Pradesh,Bhopal,Tier 2
+R025,Central,Madhya Pradesh,Indore,Tier 2
